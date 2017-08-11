@@ -1,7 +1,9 @@
 # Word-Count-Utility
 
 Language Used: Java
+
 Design Pattern Used: Visitor pattern, Observer Pattern, Prototype Pattern.
+
 Data Structure Used: BST
 
 Description: Implemented visitor pattern and other design principle applied.
